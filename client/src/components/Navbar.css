@@ -1,0 +1,28 @@
+.link-style {
+  font-family: "Pangolin", cursive !important;
+  font-size: 1.3rem !important;
+}
+.nav-links {
+  margin-right: 1.5rem;
+}
+
+.logo-style {
+  font-family: "Pangolin", cursive !important;
+  align-items: center;
+  margin-left: 1em;
+  animation: logo-style-dance, ease, 3s infinite;
+}
+
+@keyframes logo-style-dance {
+  from {
+    transform: rotate(-180deg);
+  }
+  to {
+    transform: rotate(45deg);
+  }
+}
+
+.nav-header {
+  margin: 0 auto;
+  max-width: 1600px;
+}

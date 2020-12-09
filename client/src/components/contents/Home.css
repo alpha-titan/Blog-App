@@ -1,0 +1,14 @@
+.home_Wrapper {
+  /* width: 100%; */
+  max-width: 1600px;
+}
+
+.card {
+  margin: 20px auto;
+  max-width: 600px;
+  transition: ease 0.36s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+}

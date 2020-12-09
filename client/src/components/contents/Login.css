@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Pangolin&display=swap");
+
+.auth-card {
+  /* text-align: center; */
+  padding: 20px;
+  max-width: 480px;
+  margin: 20px auto;
+}
+
+.st-style {
+  display: block !important;
+  font-size: 2rem !important;
+  font-weight: 500 !important;
+  text-align: center !important;
+  font-family: "Pangolin", cursive !important;
+}
+
+.button-style {
+  /* display: flex !important; */
+  text-align: center !important;
+  justify-content: center !important;
+  max-width: 100px !important;
+}
